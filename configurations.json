@@ -1,0 +1,7 @@
+{
+  "person_only": ["person"],
+  "people": ["person", "human", "man", "human body"],
+  "clothing": ["jacket", "clothes"],
+  "equipment": ["backpack"],
+  "full_search": ["person", "human", "man", "backpack", "jacket", "clothes", "human body"]
+}
