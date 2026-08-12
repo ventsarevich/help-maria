@@ -1,6 +1,5 @@
 ultralytics>=8.3,<9
 opencv-python>=4.10,<5
 transformers>=4.51,<6
-Pillow>=10,<13
 sentencepiece>=0.2,<1
 protobuf>=5,<7
